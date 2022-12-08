@@ -16,7 +16,7 @@ and safe. I have do so by using the the `keytool.exe`
 
 `"C:\Program Files\Java\jdk-19\bin\keytool.exe" -genkey -keyalg RSA -alias <your-cert-alias-name> -keypass <you-password> -keystore keystore.jks -storepass <your-password> -validity 360 -keysize 2048`
 
-`"C:\Program Files\Java\jdk-19\bin\keytool.exe" -export -alias selfsigned -storepass <your-password> -file <certificate-name.cer> -keystore keystore.jks`
+`"C:\Program Files\Java\jdk-19\bin\keytool.exe" -export -alias <your-cert-alias-name> -storepass <your-password> -file <certificate-name.cer> -keystore keystore.jks`
 
 `"C:\Program Files\Java\jdk-19\bin\keytool.exe" -printcert -file <certificate-name.cer>`
 
