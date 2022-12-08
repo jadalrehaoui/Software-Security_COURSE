@@ -2,7 +2,7 @@
 Taken @SNHU with Dr. Vivian Lyon
 
 
-# Client => Artemis Financial
+# Client: Artemis Financial
 Artemis Financial a consulting company that develops individualized financial plans for their customers. The financial plans include savings, retirement,
 investments, and insurance. They want to modernize their operations. As a crucial part of the success of their custom software, they also want to use the
 most current and effective software security. Artemis Financial has a RESTful web application programming interface (API). They are seeking Global Rain’s
